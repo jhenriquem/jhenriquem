@@ -1,8 +1,8 @@
-<img align="right" src="Astro.png"> 
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Henrique</h1>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JHenrique-m&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"><br><br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JHenrique-m&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHenrique-m&layout=compact&langs_count=7&theme=onedark"><br><br>
  </div>  
 <div aling="center">
