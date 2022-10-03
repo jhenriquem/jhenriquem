@@ -1,4 +1,4 @@
-<img   src="https://www.canva.com/design/DAFN70HpkLw/KVasCgKlKVa1DvtR65ZBkg/viewutm_content=DAFN70HpkLw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview"> 
+<img align="right" height="550em" src="Astro.png"> 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Henrique</h1>
 
 <div>
