@@ -5,8 +5,8 @@
 <div>
   <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=JHenrique-m&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)">
   <br><br><br>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=JHenrique-m&show_icons=true&theme=tokyonight&include_all_commits=true&&hide_border=truecount_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHenrique-m&layout=compact&locale=pt-br&langs_count=7&hide_border=true&theme=tokyonight">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JHenrique-m&show_icons=true&theme=tokyonight&include_all_commits=true&&hide_border=truecount_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHenrique-m&layout=compact&locale=pt-br&langs_count=7&hide_border=true&theme=tokyonight">
   <br>
   <br>
 </div>
