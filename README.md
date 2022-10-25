@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Henrique</h1>
 
 <div>
-  <img height="250em" src="http://github-readme-streak-stats.herokuapp.com?user=JHenrique-m&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)">
+  <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=JHenrique-m&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)">
   <br><br>
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=JHenrique-m&show_icons=true&theme=tokyonight&include_all_commits=true&&hide_border=truecount_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHenrique-m&layout=compact&locale=pt-br&langs_count=7&hide_border=true&theme=tokyonight">
