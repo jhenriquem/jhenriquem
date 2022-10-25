@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="220" src="https://user-images.githubusercontent.com/94543840/197656634-8b75df07-3a10-431b-9a4a-5664659e04f1.png">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/94543840/197656634-8b75df07-3a10-431b-9a4a-5664659e04f1.png">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Henrique</h1>
 
 <div>
