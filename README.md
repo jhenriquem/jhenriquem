@@ -4,8 +4,8 @@
 
 <div>
   <br>
-  <img height="145em" src="http://github-readme-streak-stats.herokuapp.com?user=JHenrique-m&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHenrique-m&layout=compact&locale=pt-br&langs_count=7&hide_border=true&theme=tokyonight"><br><br>
+  <img height="135em" src="http://github-readme-streak-stats.herokuapp.com?user=JHenrique-m&theme=tokyonight&hide_border=true&locale=pt-br)](https://git.io/streak-stats)">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHenrique-m&layout=compact&locale=pt-br&langs_count=7&hide_border=true&theme=tokyonight"><br><br>
 </div>  
 <div aling="center">
   <img  height="50" style="padding:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
