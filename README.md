@@ -52,8 +52,8 @@
 # 
 
 <div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquem&layout=compact&locale=pt-br&langs_count=7&hide_border=true&theme=nord">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=jhenriquem&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br&hide_border=true&count_private=true">
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquem&layout=compact&hide_border=true&theme=nord">
+  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=jhenriquem&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&count_private=true">
 </div> 
 
 
