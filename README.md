@@ -1,10 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px"> Olá , tudo bem?
-
-<div align="justify" >
-  Me chamo João Henrique, e sou um estudante de Desenvolvimento Front-end, com o objetivo de me torna um Full-Stack, 
-  atualmente estou estudando JavaScript, que é a linguagem que eu mais gostei até agora, sou um autodidata e estou sempre em buscar de aprender algo novo, 
-  mas só com uma boa música.
-</div>
+# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px"> Olá, tudo bem?
 
 ## 🔧 Tecnologias e ferramentas
 
