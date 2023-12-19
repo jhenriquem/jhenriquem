@@ -1,6 +1,15 @@
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="35px"> Olá, tudo bem?
+# Bem-vindo, tudo bem ? 👋
+Me chamo João Henrique, sou um entusiasta da programação, um jovem programador apaixonado por desenvolvimento de software, atualmente focado em conhecer os caminhos do desenvolvimento back end com Node.js, mas também gosto de conhecer outras tecnologias.
 
-## 🔧 Tecnologias e ferramentas
+### Sobre Mim
+🚀 Estudante em busca de conhecimento.<br>
+💻 Especializando-me em Node.js para criar soluções robustas.<br>
+🏐 Apaixonado por vôlei e tecnologia.
+
+### O Que Você Encontrará Aqui
+Este repositório é meu espaço de experimentação e aprendizado. Aqui, compartilho meus projetos, códigos e desafios enfrentados durante minha jornada de desenvolvimento. Seja bem-vindo para explorar, sugerir melhorias ou simplesmente trocar ideias sobre o mundo da programação.
+
+### Tecnologias e ferramentas
 
 <table>
   <tr>
@@ -52,16 +61,3 @@
     
   </tr>
 </table>
-
-# 
-
-<div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquem&layout=compact&hide_border=true&theme=nord">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=jhenriquem&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&count_private=true">
-</div> 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer"/>
-
-
-
