@@ -1,5 +1,5 @@
 # Bem-vindo, tudo bem ? 👋
-Me chamo João Henrique, sou um entusiasta da programação, um jovem programador apaixonado por desenvolvimento de software, atualmente focado em conhecer os caminhos do desenvolvimento back end com Node.js, mas também gosto de conhecer outras tecnologias.
+Me chamo João Henrique, sou programação de programação, atualmente focado em back end com Node.js, mas também me interesso por outras tecnologias.
 
 ### Sobre Mim
 🚀 Estudante em busca de conhecimento.<br>
@@ -11,53 +11,6 @@ Este repositório é meu espaço de experimentação e aprendizado. Aqui, compar
 
 ### Tecnologias e ferramentas
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-        width="48"
-        height="48"
-        alt="webpack"
-      />
-      <br /><strong>Webpack</strong>
-    </td>
-    
-  </tr>
-</table>
+![HTML5](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/html.svg) ![CSS3](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/css.svg) ![JavaScript](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/javascript.svg) 
+
+
