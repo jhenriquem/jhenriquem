@@ -1,5 +1,5 @@
 # Bem-vindo, tudo bem ? 👋
-Me chamo João Henrique, sou programação de programação, atualmente focado em back end com Node.js, mas também me interesso por outras tecnologias.
+Me chamo João Henrique, sou um estudante de programação, atualmente focado em back end com Node.js, mas também me interesso por outras tecnologias.
 
 ### Sobre Mim
 🚀 Estudante em busca de conhecimento.<br>
