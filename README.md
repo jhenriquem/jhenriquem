@@ -1,16 +1,14 @@
-# Bem-vindo, tudo bem ? 👋
-Me chamo João Henrique, sou um estudante de programação, atualmente focado em back end com Node.js, mas também me interesso por outras tecnologias.
-
-### Sobre Mim
-🚀 Estudante em busca de conhecimento.<br>
-💻 Especializando-me em Node.js para criar soluções robustas.<br>
-🏐 Apaixonado por vôlei e tecnologia.
-
-### O Que Você Encontrará Aqui
-Este repositório é meu espaço de experimentação e aprendizado. Aqui, compartilho meus projetos, códigos e desafios enfrentados durante minha jornada de desenvolvimento. Seja bem-vindo para explorar, sugerir melhorias ou simplesmente trocar ideias sobre o mundo da programação.
-
-### Tecnologias e ferramentas
-
-![HTML5](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/html.svg) ![CSS3](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/css.svg) ![JavaScript](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/javascript.svg) 
+# Hi! 👋
+My name is João Henrique, I'm a programming student, currently focused on back end with Node.js, but I intend to learn about other technologies.
 
 
+#### What You'll Find Here
+This repository is my space for experimentation and learning. Here, I share my projects, codes and challenges faced during my development journey. Welcome to explore, suggest improvements or simply exchange ideas about the world of programming.
+
+#### 💻 Technologies that I use
+
+![HTML5](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/html.svg) ![CSS3](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/css.svg) ![JavaScript](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/javascript.svg) ![TailwindCSS](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/tailwind.svg) ![React](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/react.svg)
+
+#### Technologies I want to learn
+
+![C-sharp](./assets/csharp.png)
