@@ -1,15 +1,15 @@
-# Hi! 👋
+# Olá ! 👋
 
-My name is João Henrique, I'm a programming student, currently focused on back end with Node.js, but I intend to learn about other technologies.
+Meu nome é João Henrique, sou estudante de programação, atualmente focado em back-end com Node.js, mas pretendo conhecer outras tecnologias.
 
-#### What You'll Find Here
+#### O que você encontrará aqui
 
-This repository is my space for experimentation and learning. Here, I share my projects, codes and challenges faced during my development journey. Welcome to explore, suggest improvements or simply exchange ideas about the world of programming.
+Este repositório é meu espaço de experimentação e aprendizagem. Aqui compartilho meus projetos, códigos e desafios enfrentados durante minha jornada de desenvolvimento. Seja bem-vindo para explorar, sugerir melhorias ou simplesmente trocar ideias sobre o mundo da programação.
 
-#### 💻 Technologies that I use
+#### 💻 Tecnologias que utilizo
 
 ![HTML5](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/html.svg) ![CSS3](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/css.svg) ![JavaScript](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/javascript.svg) ![TailwindCSS](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/tailwind.svg) ![React](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/react.svg)
 
-#### 📘 Technologies I want to learn
+#### 📘 Tecnologias que quero aprender
 
 ![C#](./assets/csharp.png)
