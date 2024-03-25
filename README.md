@@ -8,7 +8,7 @@ Este repositório é meu espaço de experimentação e aprendizagem. Aqui compar
 
 #### 💻 Tecnologias que utilizo
 
-![HTML5](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/html.svg) ![CSS3](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/css.svg) ![JavaScript](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/javascript.svg) ![TailwindCSS](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/tailwind.svg) ![React](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/react.svg)
+![HTML5](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/html.svg) ![CSS3](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/css.svg) ![JavaScript](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/javascript.svg) ![React](https://github.com/AsmrProg-YT/AsmrProg-YT/blob/master/assets/react.svg)
 
 #### 📘 Tecnologias que quero aprender
 
