@@ -1,20 +1,9 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá, tudo bem ? 👋</h1></summary>
-     Meu nome é João Henrique.
-
-
-  
-<p>  
-  
-### 🚀 Sobre mim
+     Meu nome é João Henrique.<br><br>
 Atualmente estou estudando desenvolvimento back-end com Node.js<br>
 Estou em busca da minha primeira oportunidade de emprego
-
-</p>
-<br>
-
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenriquem&show_icons=true&theme=nord)
 
 </div> 
 
