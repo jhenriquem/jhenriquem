@@ -3,25 +3,25 @@
     <summary><h1 style="display: inline-block">Olá, tudo bem ? 👋</h1></summary>
      Meu nome é João Henrique.
 
-</div> 
+
   
 <p>  
   
 ### 🚀 Sobre mim
-
-- Atualmente estou estudando desenvolvimento back-end com Node.js
-- Estou em busca da minha primeira oportunidade de emprego
+Atualmente estou estudando desenvolvimento back-end com Node.js<br>
+Estou em busca da minha primeira oportunidade de emprego
 
 </p>
 <br>
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenriquem&show_icons=true&theme=nord)
 
+</div> 
 
-### 💻 Linguagens e ferramentas que utilizo
+<h3 align="center">  💻 Linguagens e ferramentas que utilizo </h3>
 
 
-<table>
+<table align="center">
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -77,14 +77,12 @@
       />
       <br /><strong>Git</strong>
     </td>
-    
-   
   </tr>
 </table>
 
 
-### 🔭 Linguagens e ferramentas que quero apender 
-<table>
+<h3 align="center"> 🔭 Linguagens e ferramentas que quero apender </h3>
+<table align="center">
   <tr>
     <td align="center" height="108" width="108">
       <img
