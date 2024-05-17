@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Henrique 👋.
 ---
 <p>
-   <img src="https://github.com/" align="right" width="15%"/>
+   <img src="https://github.com/jhenriquem/jhenriquem/astro.png" align="right" width="15%"/>
 <samp>
     💻 Eu sou um estudante de programação.
     <br>
