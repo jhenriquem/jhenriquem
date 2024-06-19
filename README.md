@@ -14,7 +14,7 @@
   <p align="center">
     <samp>
       🔭 Tecnologias e ferramentas <br>
-      #html, #css, #javascript, #tailwindcss, #react, #nodejs, #express, #mongoDB, #git
+       #tailwindcss, #react, #javascript, #nodejs, #express, #mongoDB, #git
      </samp>
     <br>
   </p>
