@@ -1,23 +1,18 @@
-### Olá! Eu sou o João Henrique 👋.
----
-<p>
-   <img src="https://github.com/jhenriquem/jhenriquem/blob/main/astro.png" align="right" width="25%"/>
-<samp>
-    💻 Eu sou um estudante de programação.
-    <br>
-    <br>🔹 Atualmente aprendendo sobre back-end node.js
-    <br>🔹 Estou em busca da minha primeira oportunidade de emprego.
-    <br>🔹 Eu me interesso por software, musica e voleibol.
-    </samp>
-   <br>
-  <br>
-  <p align="center">
-    <samp>
-      🔭 Tecnologias e ferramentas <br>
-       #tailwindcss, #react, #javascript, #nodejs, #typescript, #express, #mongoDB, #git
-     </samp>
-    <br>
-  </p>
+<h1>Olá! Me chamo João Henrique👋</h1>
 
-  </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-336bcc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-henrique-machado-a48a8322a/)](https://www.linkedin.com/in/jo%C3%A3o-henrique-machado-a48a8322a/)
+
+
+<img src="https://github.com/jhenriquem/jhenriquem/blob/main/astro.png" align="right" width="25%"/>
+<samp>
+🔹 💻 Atualmente focado em desenvolvimento back-end com node.js
+<br>🔹 📖 Atualmente estou aprendendo sobre c# e .Net
+</samp>
+
+<br>
+
+#### 🔭 Tecnologias e ferramentas 
+<samp>
+#tailwindcss, #react, #javascript, #nodejs, #typescript, #express, #mongoDB, #git
+</samp>
 
