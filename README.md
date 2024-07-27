@@ -15,4 +15,8 @@
 <samp>
 #tailwindcss, #react, #javascript, #nodejs, #typescript, #express, #mongoDB, #git
 </samp>
+<br>
+<br>
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenriquem&show_icons=true&theme=nord&hide=contribs,prs)
