@@ -12,7 +12,7 @@
 
 #### 🔭 Tecnologias e ferramentas 
 <samp>
-#tailwindcss, #react, #javascript, #nodejs, #typescript, #express, #mongoDB, #git
+#tailwindcss, #react, #javascript, #nodejs, #typescript, #express, #mongoDB, #postgreSQL, #git
 </samp>
 <br>
 <br>
