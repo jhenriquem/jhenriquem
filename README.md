@@ -5,7 +5,7 @@
 
 <samp>
 🔹 💻 Atualmente focado em desenvolvimento back-end com node.js
-<br>🔹 📖 Atualmente estou aprendendo sobre c# e .Net
+<br>🔹 📖 Atualmente estou aprendendo sobre go
 </samp>
 
 <br>
