@@ -4,15 +4,16 @@
 
 
 <samp>
-🔹 💻 Atualmente focado em desenvolvimento back-end com node.js
-<br>🔹 📖 Atualmente estou aprendendo sobre go
+🔹 💻 Focado em desenvolvimento back-end 
+<br>🔹 📖 Atualmente estundo para aumentar meu conhecimento 
+
 </samp>
 
 <br>
 
 #### 🔭 Tecnologias e ferramentas 
 <samp>
-#tailwindcss, #react, #javascript, #nodejs, #typescript, #express, #mongoDB, #postgreSQL, #git
+#tailwindcss, #react, #javascript, #nodejs, #go, #typescript, #express, #mongoDB, #postgreSQL, #git
 </samp>
 <br>
 <br>
