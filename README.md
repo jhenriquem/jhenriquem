@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo João Henrique👋</h1>
 
 <samp>
-🔹 💻 Focado em desenvolvimento back-end 
+🔹 💻 Focado em desenvolvimento Back-end
 <br>🔹 📖 Atualmente estundo para aumentar meu conhecimento 
 
 </samp>
