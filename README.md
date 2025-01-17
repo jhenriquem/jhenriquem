@@ -1,8 +1,5 @@
 <h1>Olá! Me chamo João Henrique👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-336bcc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-henrique-machado-a48a8322a/)](https://www.linkedin.com/in/jo%C3%A3o-henrique-machado-a48a8322a/)
-
-
 <samp>
 🔹 💻 Focado em desenvolvimento back-end 
 <br>🔹 📖 Atualmente estundo para aumentar meu conhecimento 
@@ -12,11 +9,22 @@
 <br>
 
 #### 🔭 Tecnologias e ferramentas 
-<samp>
-#tailwindcss, #react, #javascript, #nodejs, #go, #typescript, #express, #mongoDB, #postgreSQL, #git
-</samp>
-<br>
-<br>
-<br>
+<img src="https://skillicons.dev/icons?i=tailwind,react,javascript,nodejs,go,typescript,express,mongodb,postgresql,git" alt="Tecnologias e ferramentas" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenriquem&show_icons=true&theme=nord&hide=contribs,prs)
+#### 🌐 Projetos
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <a href="https://github.com/jhenriquem/GoNvim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=GoNvim&theme=nord" alt="GoNvim">
+  </a>
+  <a href="https://github.com/jhenriquem/live-chat-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=live-chat-server&theme=nord" alt="Live Chat Server">
+  </a>
+  
+  
+  <a href="https://github.com/jhenriquem/expense-tracker-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=expense-tracker-api&theme=nord" alt="Expense Tracker API">
+  </a>
+  
+</div>
