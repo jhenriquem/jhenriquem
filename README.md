@@ -10,17 +10,12 @@
 <br>
 <br>
 
-<div align="center" >
-
 ### 🔭 Tecnologias e ferramentas 
 
 <img align="center" src="https://skillicons.dev/icons?i=tailwind,react,javascript,nodejs,go,typescript,express,mongodb,postgresql,docker,git,neovim" alt="Tecnologias e ferramentas" />
-</div>
 
 <br>
-<br>
-<div align="center" >
-  
+
 ### 🌐 Projetos
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
