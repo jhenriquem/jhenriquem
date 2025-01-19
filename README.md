@@ -1,18 +1,27 @@
-<h1>Olá! Me chamo João Henrique👋</h1>
+
+<h1 align="center" >Olá! Eu sou o João Henrique👋</h1>
 
 <samp>
 🔹 💻 Focado em desenvolvimento Back-end
-<br>🔹 📖 Atualmente estundo para aumentar meu conhecimento 
+<br>🔹 📖 Atualmente estudando para aumentar meu conhecimento 
 
 </samp>
 
 <br>
+<br>
 
-#### 🔭 Tecnologias e ferramentas 
-<img src="https://skillicons.dev/icons?i=tailwind,react,javascript,nodejs,go,typescript,express,mongodb,postgresql,git" alt="Tecnologias e ferramentas" />
+<div align="center" >
+
+### 🔭 Tecnologias e ferramentas 
+
+<img align="center" src="https://skillicons.dev/icons?i=tailwind,react,javascript,nodejs,go,typescript,express,mongodb,postgresql,docker,git,neovim" alt="Tecnologias e ferramentas" />
 </div>
 
-#### 🌐 Projetos
+<br>
+<br>
+<div align="center" >
+  
+### 🌐 Projetos
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
   <a href="https://github.com/jhenriquem/GoNvim">
@@ -22,4 +31,5 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=expense-tracker-api&theme=nord" alt="Expense Tracker API">
   </a>
   
+</div>
 </div>
