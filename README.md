@@ -1,30 +1,19 @@
 
-<h1 align="center" >Olá! Eu sou o João Henrique👋</h1>
+## Olá 👋🏻
 
-<samp>
-🔹 💻 Focado em desenvolvimento Back-end
-<br>🔹 📖 Atualmente estudando para aumentar meu conhecimento 
+#### 🚀 Atualmente
+🔹 💻 Focado em desenvolvimento Back-end <br>
+🔹 📖 Estudando para aumentar meu conhecimento 
 
-</samp>
+#### 🔭 Tecnologias e ferramentas 
 
-<br>
-<br>
+<img align="center" src="https://skillicons.dev/icons?i=tailwind,react,javascript,nodejs,go,typescript,mongodb,postgresql,docker,git,neovim" alt="Tecnologias e ferramentas" />
 
-### 🔭 Tecnologias e ferramentas 
 
-<img align="center" src="https://skillicons.dev/icons?i=tailwind,react,javascript,nodejs,go,typescript,express,mongodb,postgresql,docker,git,neovim" alt="Tecnologias e ferramentas" />
-
-<br>
-
-### 🌐 Projetos
+#### 🌐 Projetos
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  <a href="https://github.com/jhenriquem/GoNvim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=GoNvim&theme=nord" alt="GoNvim">
+  <a href="https://github.com/jhenriquem/Gom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=Gom&theme=nord" alt="Gom">
   </a>
-  <a href="https://github.com/jhenriquem/expense-tracker-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=expense-tracker-api&theme=nord" alt="Expense Tracker API">
-  </a>
-  
-</div>
 </div>
