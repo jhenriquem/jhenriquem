@@ -13,7 +13,7 @@
 #### 🌐 Projetos
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  <a href="https://github.com/jhenriquem/Gom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=Gom&theme=nord" alt="Gom">
+  <a href="https://github.com/jhenriquem/gom-editor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=gom-editor&theme=holi" alt="🚀 Gom Editor">
   </a>
 </div>
