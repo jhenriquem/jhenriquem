@@ -12,8 +12,12 @@
 
 #### 🌐 Projetos
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<div >
   <a href="https://github.com/jhenriquem/gom-editor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=gom-editor&theme=holi" alt="🚀 Gom Editor">
+  </a>
+
+  <a href="https://github.com/jhenriquem/gongo-wabot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhenriquem&repo=gongo-wabot&theme=holi" alt="🤖 Gongo WaBot">
   </a>
 </div>
